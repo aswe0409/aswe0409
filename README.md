@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-https://velog.io/@aswe0409
+velog(CS): https://velog.io/@aswe0409
 
-https://blog.naver.com/aswe0409
+Naver blog(일상): https://blog.naver.com/aswe0409
 
 instagram: j_sio2
 

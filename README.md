@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-velog: https://velog.io/@aswe0409
+Velog: https://velog.io/@aswe0409
 
 Naver blog: https://blog.naver.com/aswe0409
 
-instagram: https://www.instagram.com/j_sio2/
+Instagram: https://www.instagram.com/j_sio2/
 
 <!--
 **aswe0409/aswe0409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

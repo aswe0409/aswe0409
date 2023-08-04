@@ -1,4 +1,4 @@
-### Hi there 👋
+### This is me👋
 
 Velog: https://velog.io/@aswe0409
 

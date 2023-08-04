@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-https://velog.io/@aswe0409
-https://blog.naver.com/aswe0409
+https://velog.io/@aswe0409\n
+https://blog.naver.com/aswe0409\n
 instagram: j_sio2
 
 <!--

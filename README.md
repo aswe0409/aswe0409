@@ -6,7 +6,6 @@ Naver blog: https://blog.naver.com/aswe0409
 
 Instagram: https://www.instagram.com/j_sio2/
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aswe0409)](https://solved.ac/aswe0409/)
 
 
 <!--

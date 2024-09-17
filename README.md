@@ -13,7 +13,7 @@
 ## 👨‍💻Project
 - [뉴스와 주식 모의투자를 통한 경제 교육 서비스]() 2024.08 ~ ing
 - [실시간 셔틀버스 위치 정보 서비스](https://github.com/whereIsTheBusBUDDY/BUDDY) 2024.07 ~ 2024.08 (약 6주)
-- [여행 정보 및 양조장 정보 웹]() 2024.04 ~ 2024.05 (약 3주)
+- [여행 정보 및 양조장 정보 웹](https://github.com/aswe0409/trip_site) 2024.04 ~ 2024.05 (약 3주)
 - [데이터 분석을 통한 홈런 개수 예측](https://github.com/aswe0409/2024_Honerun_Predict) 2023.11 ~ 2023.11 (약 2주)
 - [웹 크롤링을 통한 학교 공지사항 텔레그램 알림 봇](https://github.com/aswe0409/Telegram_Notice_Bot) 2023.07 ~ 2023.07 (약 1주)
 

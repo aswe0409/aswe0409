@@ -35,7 +35,7 @@
 
 **Database**
 
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=amazon rds&logoColor=white"><img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=amazon rds&logoColor=white"> <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=mysql&logoColor=white">
   
 **Infra & CI/CD**
 

@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=7000&pause=3&color=2388d1&center=false&vCenter=false&repeat=true&width=1000&height=100&lines=Hello+World🌏+I'm+Seokyeong😁)](https://git.io/typing-svg)
 
 ## 👋 Welcome to My Github
-안녕하세요. 컴퓨터공학과를 졸업하고, Backend 분야로 취직을 희망하는 취준생입니다.
+안녕하세요. 컴퓨터공학과를 졸업하고, Backend 분야로 취직을 희망하고 있습니다.
 <br>공부한 내용을 정리하여 [개인 블로그](https://velog.io/@aswe0409/posts)에 올려두고 있습니다.
 
 

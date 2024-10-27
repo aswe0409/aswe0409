@@ -8,8 +8,8 @@
 ## 🎓Educations & Experiences
 - 삼성 청년 SW아카데미 11th 자바 전공 (2024.01 ~ ing)
 - 강원대학교 컴퓨터공학과 졸업 (~ 2024.02)
-  
 
+  
 ## 👨‍💻Project
 - [뉴스와 주식 모의투자를 통한 경제 교육 서비스]() 2024.08 ~ 2024.10 (약 7주)
 - [실시간 셔틀버스 위치 정보 서비스](https://github.com/whereIsTheBusBUDDY/BUDDY) 2024.07 ~ 2024.08 (약 6주)
@@ -35,7 +35,7 @@
 
 **Database**
 
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=amazon rds&logoColor=white"> <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=amazon rds&logoColor=white"> <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=mysql&logoColor=white">
   
 **Infra & CI/CD**
 

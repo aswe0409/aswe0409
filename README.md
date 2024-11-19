@@ -9,7 +9,7 @@
 - 강원대학교 컴퓨터공학과 졸업 ( ~ 2024.02)
 
 ## 👨‍💻Project
-- [자동 출석체크와 교육용 앱 제어 서비스]() 2024.10 ~ ing
+- [자동 출석체크와 교육용 앱 제어 서비스](https://github.com/LockthePad/PADLOCK) 2024.10 ~ 2024.11 (약 7주)
 - [뉴스와 주식 모의투자를 통한 경제 교육 서비스](https://github.com/newsAndStock/newStock) 2024.08 ~ 2024.10 (약 7주)
 - [실시간 셔틀버스 위치 정보 서비스](https://github.com/whereIsTheBusBUDDY/BUDDY) 2024.07 ~ 2024.08 (약 7주)
 - [여행 정보 및 양조장 정보 웹](https://github.com/aswe0409/trip_site) 2024.05 ~ 2024.05 (약 1주)

@@ -6,7 +6,7 @@
 
 ## 🎓Educations & Experiences
 - 2024.01 ~ 2024.12 삼성 청년 SW아카데미(SSAFY) 11th 자바 전공 트랙 수료
-- 2024.02 강원대학교 춘천캠퍼스 컴퓨터공학과 졸업 
+- 2024.02 강원대학교 컴퓨터공학과 졸업 
 
 ## 👨‍💻Project
 - 2024.10 ~ 2024.11 [자동 출석체크와 교육용 앱 제어 서비스 PADLOCK](https://github.com/LockthePad/PADLOCK)

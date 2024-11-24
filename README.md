@@ -5,20 +5,20 @@
 <br>공부한 내용을 정리하여 [개인 블로그](https://velog.io/@aswe0409/posts)에 올려두고 있습니다.
 
 ## 🎓Educations & Experiences
-- 삼성 청년 SW아카데미 11th 자바 전공 (2024.01 ~ ing)
-- 강원대학교 컴퓨터공학과 졸업 ( ~ 2024.02)
+- 2024.01 ~ 2024.12 삼성 청년 SW아카데미 11th 자바 전공 트랙 수료
+- 2024.02 강원대학교 컴퓨터공학과 졸업 
 
 ## 👨‍💻Project
-- [자동 출석체크와 교육용 앱 제어 서비스 PADLOCK](https://github.com/LockthePad/PADLOCK) 2024.10 ~ 2024.11 (약 7주)
-- [뉴스와 주식 모의투자를 통한 경제 교육 서비스 newStock](https://github.com/newsAndStock/newStock) 2024.08 ~ 2024.10 (약 7주)
-- [실시간 셔틀버스 위치 정보 서비스 버스어디? BUDDY](https://github.com/whereIsTheBusBUDDY/BUDDY) 2024.07 ~ 2024.08 (약 7주)
-- [여행 정보 및 양조장 정보 웹](https://github.com/aswe0409/trip_site) 2024.05 ~ 2024.05 (약 1주)
-- [데이터 분석을 통한 홈런 개수 예측](https://github.com/aswe0409/2024_Honerun_Predict) 2023.11 ~ 2023.11 (약 2주)
-- [웹 크롤링을 통한 학교 공지사항 텔레그램 알림 봇](https://github.com/aswe0409/Telegram_Notice_Bot) 2023.07 ~ 2023.07 (약 1주)
+- 2024.10 ~ 2024.11 (약 7주) [자동 출석체크와 교육용 앱 제어 서비스 PADLOCK](https://github.com/LockthePad/PADLOCK)
+- 2024.08 ~ 2024.10 (약 7주) [뉴스와 주식 모의투자를 통한 경제 교육 서비스 newStock](https://github.com/newsAndStock/newStock)
+- 2024.07 ~ 2024.08 (약 7주) [실시간 셔틀버스 위치 정보 서비스 버스어디? BUDDY](https://github.com/whereIsTheBusBUDDY/BUDDY)
+- 2024.05 ~ 2024.05 (약 1주) [여행 정보 및 양조장 정보 웹](https://github.com/aswe0409/trip_site)
+- 2023.11 ~ 2023.11 (약 2주) [데이터 분석을 통한 홈런 개수 예측](https://github.com/aswe0409/2024_Honerun_Predict)
+- 2023.07 ~ 2023.07 (약 1주) [웹 크롤링을 통한 학교 공지사항 텔레그램 알림 봇](https://github.com/aswe0409/Telegram_Notice_Bot)
 
 ## 🏆Awards
-- 삼성 청년 SW아카데미 11th 특화 프로젝트 우수상 (2024.10) 
-- 삼성 청년 SW아카데미 11th 공통 프로젝트 우수상 (2024.08)
+- 2024.10 삼성 청년 SW아카데미 11th 특화 프로젝트 우수상 
+- 2024.08 삼성 청년 SW아카데미 11th 공통 프로젝트 우수상
 
 ## ✉️ Contact 
 <div style="display:flex; flex-direction:row;">

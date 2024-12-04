@@ -2,7 +2,7 @@
 
 ## 👋 Welcome to My Github
 안녕하세요. 컴퓨터공학과를 졸업하고, Backend 분야로 취직을 희망하고 있습니다.
-<br>공부한 내용을 정리하여 [개인 블로그](https://velog.io/@aswe0409/posts)에 올려두고 있습니다.
+[포트폴리오](https://www.miricanvas.com/v/13xxusz)
 
 ## 🎓Educations & Experiences
 - 2024.01 ~ 2024.12 삼성 청년 SW아카데미(SSAFY) 11th 자바 전공 트랙 수료

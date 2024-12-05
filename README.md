@@ -9,6 +9,7 @@
 - 2024.02 강원대학교 컴퓨터공학과 졸업 
 
 ## 👨‍💻Project
+- 2024.12 ~ ing [비트코인 자동 트레이딩](https://github.com/aswe0409/coin_auto_trading)
 - 2024.10 ~ 2024.11 [자동 출석체크와 교육용 앱 제어 서비스 PADLOCK](https://github.com/LockthePad/PADLOCK)
 - 2024.08 ~ 2024.10 [뉴스와 주식 모의투자를 통한 경제 교육 서비스 newStock](https://github.com/newsAndStock/newStock)
 - 2024.07 ~ 2024.08 [실시간 셔틀버스 위치 정보 서비스 버스어디? BUDDY](https://github.com/whereIsTheBusBUDDY/BUDDY)

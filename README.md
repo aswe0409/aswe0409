@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=7000&pause=3&color=FF7F00&center=false&vCenter=false&repeat=true&width=1000&height=100&lines=Hello+World🌏+I'm+Seokyeong😁)](https://git.io/typing-svg)
 
 ## 👋 Welcome to My Github
-안녕하세요. 컴퓨터공학과를 졸업하고, Backend 분야로 취직을 희망하고 있습니다.
+안녕하세요. 일상 속 불편함을 IT 기술로 해결하는 개발자 정석영입니다.
 <br>[포트폴리오](https://www.miricanvas.com/v/13xxusz)
 
 ## 🎓Educations & Experiences

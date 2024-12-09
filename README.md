@@ -37,7 +37,7 @@
     </tr>
 </table>
 
-## Side Project
+## 🖥️ Side Project
 - 2024.12 ~ ing [비트코인 자동 트레이딩](https://github.com/aswe0409/coin_auto_trading)
 - 2024.05 ~ 2024.05 [여행 정보 및 양조장 정보 웹](https://github.com/aswe0409/trip_site)
 - 2023.11 ~ 2023.11 [데이터 분석을 통한 홈런 개수 예측](https://github.com/aswe0409/2024_Honerun_Predict)

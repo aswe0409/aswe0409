@@ -8,11 +8,37 @@
 - 2024.01 ~ 2024.12 삼성 청년 SW아카데미(SSAFY) 11th 자바 전공 트랙 수료
 - 2024.02 강원대학교 컴퓨터공학과 졸업 
 
-## 👨‍💻Project
+## 👨‍💻Main Project
+<table align="center" style="table-layout: fixed; width: 100%; border-collapse: collapse;">
+    <tr>
+        <td align="center"><img src="buddy_logo.png" alt="버스어디? BUDDY title="버스어디? BUDDY" style="width: 150px; height: 150px;"></td>
+        <td align="center"><img src="newstock_logo.png" alt="newStock" title="newStock" style="width: 150px; height: 150px;"></td>
+        <td align="center"><img src="padlock_logo.png" alt="PADLOCK" title="PADLOCK" style="width: 150px; height: 150px;"></td>
+    </tr>
+    <tr>
+       <td align="center"><b><a href="https://github.com/whereIsTheBusBUDDY/BUDDY">버스어디? BUDDY</a></b></td>
+            <td align="center"><b><a href="https://github.com/newsAndStock/newStock">newStock</a></b></td>
+            <td align="center"><b><a href="https://github.com/LockthePad/PADLOCK">PADLOCK</a></b></td>
+    </tr>
+    <tr>
+        <td align="center">2024.07 ~ 2024.08(7주)</td>
+        <td align="center">2024.08 ~ 2024.10(7주)</td>
+        <td align="center">2024.10 ~ 2024.11(6주)</td>
+    </tr>
+    <tr>
+        <td align="center"><b>AI, BE</b></td>
+        <td align="center"><b>BE, Data</b></td>
+        <td align="center"><b>Team Leader, AI, BE</b></td>
+    </tr>
+    <tr>
+        <td align="center">실시간 셔틀버스 위치 정보 앱</td>
+        <td align="center">뉴스와 주식 모의투자를 통한 경제 교육 앱</td>
+        <td align="center">자동 출석체크와 교육용 앱 제어 서비스</td>
+    </tr>
+</table>
+
+## Side Project
 - 2024.12 ~ ing [비트코인 자동 트레이딩](https://github.com/aswe0409/coin_auto_trading)
-- 2024.10 ~ 2024.11 [자동 출석체크와 교육용 앱 제어 서비스 PADLOCK](https://github.com/LockthePad/PADLOCK)
-- 2024.08 ~ 2024.10 [뉴스와 주식 모의투자를 통한 경제 교육 서비스 newStock](https://github.com/newsAndStock/newStock)
-- 2024.07 ~ 2024.08 [실시간 셔틀버스 위치 정보 서비스 버스어디? BUDDY](https://github.com/whereIsTheBusBUDDY/BUDDY)
 - 2024.05 ~ 2024.05 [여행 정보 및 양조장 정보 웹](https://github.com/aswe0409/trip_site)
 - 2023.11 ~ 2023.11 [데이터 분석을 통한 홈런 개수 예측](https://github.com/aswe0409/2024_Honerun_Predict)
 - 2023.07 ~ 2023.07 [웹 크롤링을 통한 학교 공지사항 텔레그램 알림 봇](https://github.com/aswe0409/Telegram_Notice_Bot)

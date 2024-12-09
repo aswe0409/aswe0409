@@ -11,9 +11,9 @@
 ## 👨‍💻Main Project
 <table align="center" style="table-layout: fixed; width: 100%; border-collapse: collapse;">
     <tr>
-        <td align="center"><img src="buddy_logo.png" alt="버스어디? BUDDY title="버스어디? BUDDY" style="width: 150px; height: 150px;"></td>
-        <td align="center"><img src="newstock_logo.png" alt="newStock" title="newStock" style="width: 150px; height: 150px;"></td>
-        <td align="center"><img src="padlock_logo.png" alt="PADLOCK" title="PADLOCK" style="width: 150px; height: 150px;"></td>
+        <td align="center"><img src="assets/buddy_logo.png" alt="버스어디? BUDDY title="버스어디? BUDDY" style="width: 150px; height: 150px;"></td>
+        <td align="center"><img src="assets/newstock_logo.png" alt="newStock" title="newStock" style="width: 150px; height: 150px;"></td>
+        <td align="center"><img src="assets/padlock_logo.png" alt="PADLOCK" title="PADLOCK" style="width: 150px; height: 150px;"></td>
     </tr>
     <tr>
        <td align="center"><b><a href="https://github.com/whereIsTheBusBUDDY/BUDDY">버스어디? BUDDY</a></b></td>

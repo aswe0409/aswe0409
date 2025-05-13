@@ -2,7 +2,6 @@
 
 ## 👋 Welcome to My Github
 안녕하세요. 일상 속 불편함을 IT 기술로 해결하는 개발자 정석영입니다.
-<br>[포트폴리오](https://www.miricanvas.com/v/14cd09c)
 
 ## 🎓Educations & Experiences
 - 2024.01 ~ 2024.12 삼성 청년 SW아카데미(SSAFY) 11th 자바 전공 트랙 수료

@@ -6,7 +6,6 @@
 
 ## 🎓Educations & Experiences
 - 2024.01 ~ 2024.12 삼성 청년 SW아카데미(SSAFY) 11th 자바 전공 트랙 수료
-- 2024.02 강원대학교 컴퓨터공학과 졸업 
 
 ## 👨‍💻Main Project
 <table align="center" style="table-layout: fixed; width: 100%; border-collapse: collapse;">
